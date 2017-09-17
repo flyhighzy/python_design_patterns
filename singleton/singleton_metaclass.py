@@ -28,6 +28,7 @@ class MyClass(object):
 #class MyClass(object, metaclass=Singleton):
 #    pass
 
+
 if __name__ == '__main__':
     e1 = MyClass()
     e2 = MyClass()
